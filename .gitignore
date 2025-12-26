@@ -1,0 +1,15 @@
+/assets/
+*.exe
+*.obj
+*.o
+*.ilk
+*.pdb
+*.lib
+*.sln
+*.vcxproj.user
+.vscode/
+build/
+bin/
+Debug/
+Release/
+.vs/
